@@ -1,5 +1,7 @@
-# SWAT-CNN
+# Repository Moved
+This repository has been moved to [SWAT](https://github.com/taehojo/SWAT). 
 
+# SWAT-CNN
 A novel three-step approach for identification of genetic variants using deep learning to identify phenotype-related SNPs that can be applied to develop accurate disease classification models. 
 
 <img src="./image/Figure1.PNG" style="zoom:80%">
