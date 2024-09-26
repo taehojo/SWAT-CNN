@@ -1,12 +1,16 @@
 # Repository Moved
 This repository has been moved to [SWAT](https://github.com/taehojo/SWAT). 
 
+---
+
+The following content is from the previous version of this repository. Please refer to the new [SWAT repository](https://github.com/taehojo/SWAT) for the latest updates.
+
+---
+
 # SWAT-CNN
 A novel three-step approach for identification of genetic variants using deep learning to identify phenotype-related SNPs that can be applied to develop accurate disease classification models. 
 
 <img src="./image/Figure1.PNG" style="zoom:80%">
-
-
 
 **SWAT**(Sliding Window Association Test)**-CNN** is a data-customized approach. We demonstrate how SWAT-CNN can be applied to GWAS data in the following paper.
 
